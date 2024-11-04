@@ -1,0 +1,6 @@
+itextsharp.dll
+ChangeModified.ps1
+GetPDFDataToExcelWithPath.ps1
+GetPDFDataToExcelWithSize.ps1
+checkpdfpython/env
+checkpdfpythonwithpath/env
